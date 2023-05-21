@@ -3,24 +3,24 @@
       "id": 1,
       "name": "Creamsicle",
       "price": 10.99,
-      "imgUrl": "/imgs/kitten1.jpg"
+      "imgUrl": "/imgs/kitten1.jpeg"
     },
     {
       "id": 2,
       "name": "Multipack",
       "price": 1199,
-      "imgUrl": "/imgs/kitten2.jpg"
+      "imgUrl": "/imgs/kitten2.jpeg"
     },
     {
       "id": 3,
       "name": "Stylish Model",
       "price": 14000,
-      "imgUrl": "/imgs/kitten3.jpg"
+      "imgUrl": "/imgs/kittes3.jpeg"
     },
     {
       "id": 4,
       "name": "Extra Smol",
       "price": 1.05,
-      "imgUrl": "/imgs/kitten4.jpg"
+      "imgUrl": "/imgs/kitten4.jpeg"
     }
   ]
