@@ -2,7 +2,6 @@ import { Offcanvas, Stack } from "react-bootstrap";
 import { useShoppingCart } from "../context/ShoppingCartContext";
 import { CartItem } from "./CartItem";
 import { formatCurrency } from "../utilities/formatCurreny";
-import { StoreItem } from "./StoreItem";
 import storeItems from "../data/items.json"
 
 type ShoppingCartProps = {
